@@ -1,0 +1,6 @@
+fastai>=2.0.0
+fastbook
+ipywidgets
+matplotlib
+scikit_learn
+ddgs
