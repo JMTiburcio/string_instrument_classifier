@@ -3,7 +3,7 @@ models/
 tmp/
 *.bak
 *.pkl
-bears/
+string_instruments/
 __pycache__/
 .last_checked
 .gitconfig
